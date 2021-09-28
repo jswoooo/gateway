@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: gateway
-          image: skuser12.azurecr.io/gateway:latest
+          image: user123.azurecr.io/gateway:latest
           # image: hhak/order:latest
           # resources:
           #   limits:

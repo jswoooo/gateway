@@ -76,7 +76,7 @@ spring:
               - "*"
             allowedHeaders:
               - "*"
-            allowCredentials: true
+            # allowCredentials: true
 
 server:
   port: 8080
